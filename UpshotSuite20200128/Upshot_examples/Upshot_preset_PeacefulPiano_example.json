@@ -1,0 +1,58 @@
+{
+	"pattrstorage" : 	{
+		"name" : "upshot",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"upshot_freeze::Freeze-fade-time" : [ 2000.0 ],
+					"upshot_freeze::Freeze-state" : [ 0 ],
+					"upshot_freeze::Freeze-vol" : [ 1.795275590551171 ],
+					"upshot_output::2820-output-vol" : [ 0.0 ],
+					"upshot_mixer::channel 1" : [ 0.0 ],
+					"upshot_mixer::channel 2" : [ 0.380671183268234 ],
+					"upshot_mixer::channel 3" : [ 0.0 ],
+					"upshot_mixer::channel 4" : [ 0.0 ],
+					"upshot_mixer::channel 5" : [ 0.0 ],
+					"upshot_mixer::channel 6" : [ 0.0 ],
+					"upshot_mixer::channel 7" : [ 0.0 ],
+					"upshot_mixer::channel 8" : [ 0.0 ],
+					"upshot_mixer::channel_01_mute" : [ 1.0 ],
+					"upshot_mixer::channel_02_mute" : [ 1.0 ],
+					"upshot_mixer::channel_03_mute" : [ 1.0 ],
+					"upshot_mixer::channel_04_mute" : [ 1.0 ],
+					"upshot_mixer::channel_05_mute" : [ 1.0 ],
+					"upshot_mixer::channel_06_mute" : [ 1.0 ],
+					"upshot_mixer::channel_07_mute" : [ 1.0 ],
+					"upshot_mixer::channel_08_mute" : [ 1.0 ],
+					"upshot_mixer::live.menu" : [ 0.0 ],
+					"upshot_mixer::live.menu[1]" : [ 0.0 ],
+					"upshot_mixer::live.menu[2]" : [ 0.0 ],
+					"upshot_mixer::live.menu[3]" : [ 0.0 ],
+					"upshot_mixer::live.menu[4]" : [ 0.0 ],
+					"upshot_mixer::live.menu[5]" : [ 0.0 ],
+					"upshot_mixer::live.menu[6]" : [ 0.0 ],
+					"upshot_mixer::live.menu[7]" : [ 0.0 ],
+					"upshot_easyverb::bypass" : [ 0.0 ],
+					"upshot_easyverb::yafr-decay" : [ 78.999999999999972 ],
+					"upshot_easyverb::yafr-size" : [ 127.0 ],
+					"upshot_easyverb::yafr-vol" : [ 2.916312470523692 ],
+					"upshot_nodes::circle_width" : [ 79.999999999999943 ],
+					"upshot_nodes::live.button" : [ 0.0 ],
+					"upshot_nodes::nodenumber" : [ 8.0 ],
+					"upshot_nodes::nodes" : [ 0.5, 0.147, 0.4, 1, 0.749609, 0.250391, 0.4, 1, 0.853, 0.5, 0.4, 1, 0.749609, 0.749609, 0.4, 1, 0.5, 0.853, 0.4, 1, 0.250391, 0.749609, 0.4, 1, 0.147, 0.5, 0.4, 1, 0.250391, 0.250391, 0.4, 1 ],
+					"upshot_nodes::nodes_direction" : [ 0.0 ],
+					"upshot_nodes::nodes_mode" : [ 2.0 ],
+					"upshot_nodes::nodesize" : [ 0.4 ],
+					"upshot_nodes::on/off" : [ 0.0 ],
+					"upshot_nodes::rspeed" : [ 117.0 ],
+					"upshot_nodes::speed" : [ 0.02 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
