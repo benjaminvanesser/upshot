@@ -96,8 +96,12 @@ us.trackpadxy
 hints
 
 hovering the cursor over the title of the modules reveals more information.
-use upshot_pattrstorage.maxsnip to save and recall presets.
+use us.preset.maxsnip to save and recall presets.
 
 
 Happy patching!
+
+
+---Benjamin Van Esser 22022020---
+
 
