@@ -32,7 +32,9 @@ us.stutter
 
 us.gameoflife.maxpat
 
-us.auto
+- generators
+
+us.auto<br>
 us.automator
 us.envelope
 us.nodes
