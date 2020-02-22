@@ -32,6 +32,8 @@ us.stutter
 
 us.gameoflife.maxpat
 
+- generators
+
 us.auto
 us.automator
 us.envelope
