@@ -34,7 +34,7 @@ us.gameoflife.maxpat
 
 - generators
 
-us.auto<br>
+us.auto
 us.automator
 us.envelope
 us.nodes
