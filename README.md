@@ -1,20 +1,10 @@
 # upshot suite
 
-upshot suite is a suite of Max bpatchers for quick and easy patching
+upshot is a suite of audio effects, event generators, instruments and all kinds of utilities for quick and easy patching
 
-installation (MacOS)
+installation
 
----> move ‘Upshot’ folder to Documents/Max 8/Library
-
----> move ‘Upshot Suite’ folder to Documents/Max 8/Packages
-
----> open Max 8
-
----> open new patcher
-
----> right-click in the new (unlocked) patcher
-
----> go to Upshot Suite
+---> move the ‘Upshot Suite’ folder to Documents/Max8/Packages
 
 Happy patching!
 
