@@ -93,7 +93,8 @@ us.trackpadxy
 
 hints
 
-hovering the cursor over the title of the modules reveals more information.
+hovering the cursor over the title of the modules reveals more information
+use upshot_pattrstorage.maxsnip to save and recall presets
 
 
 Happy patching!
