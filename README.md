@@ -1,6 +1,6 @@
 # upshot suite
 
-Upshot Suite is a Max package (comprised of audio effects, event generators, trackers, sequencers, instruments and many other tools and utilities) which provides a flexible environment for building generative and live electronics performance patches. 
+Upshot Suite is a Max package comprised of audio effects, event generators, trackers, instruments and many other tools/utilities. Upshot Suite was originally created to open up the Ultomaton platform (https://github.com/benjaminvanesser/ultomaton) and create a more flexible environment for building generative patches. 
 
 installation
 
@@ -13,13 +13,14 @@ contents
 
 us.audiofileplayer
 us.bitcrusher
-us.chorus
 us.delay
 us.easyverb
 us.endlessreverb
 us.filter
 us.freeze
+Us.gate
 us.glitch
+us.glitchchorus
 us.granulator
 us.looper
 us.pitchshifter
@@ -31,6 +32,7 @@ us.stutter
 - games
 
 us.gameoflife.maxpat
+us.tetris
 
 - generators
 
@@ -59,7 +61,8 @@ us.transport
 - misc
 
 us.alpha
-us.binaryprobabilitycalculator
+us.1bitprobability
+us.7bitprobability
 us.compare
 us.metronome
 us.noise
@@ -68,7 +71,7 @@ us.texttospeech (MacOS only)
 
 - routing
 
-us.8chanmixer
+us.8chanmonomixer
 us.8chanstereomixer
 us.input
 us.output
@@ -79,7 +82,7 @@ us.stereopanner
 
 us.collatz
 us.stepsequencer
-us.tupgen
+us.divisions
 
 - tracking
 
@@ -102,6 +105,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 22022020---
+---Benjamin Van Esser 20200308---
 
 
