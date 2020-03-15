@@ -66,15 +66,20 @@ us.alpha
 us.audiofileplayer
 us.compare
 us.metronome
+Us.musicaltyping
 us.noise
 us.rain
 us.record
+us.speakertest
 us.texttospeech (MacOS only)
 
 - routing
 
+us.4chanpanner
 us.8chanmonomixer
+us.8chanpanner
 us.8chanstereomixer
+us.16chanpanner
 us.input
 us.output
 us.record
@@ -92,11 +97,11 @@ us.preset
 
 - tracking
 
+us.amplitudefollower
 us.attackdetection
 us.blobtracking (requires cv.jit package)
 us.colortracking
 us.draw
-us.envelopefollower
 us.imagetomidi
 us.pitchdetection
 us.trackpadxy
@@ -111,6 +116,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200312---
+---Benjamin Van Esser 20200315---
 
 
