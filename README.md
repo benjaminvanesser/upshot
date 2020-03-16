@@ -33,6 +33,7 @@ us.stutter
 - generators
 
 us.auto
+us.autocontrol
 us.automator
 us.envelope
 us.gameoflife
