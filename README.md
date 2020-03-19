@@ -49,6 +49,7 @@ us.slicer
 
 - midi
 
+Us.chords
 us.launchpadcontrol
 us.many2one
 us.mapping
@@ -90,6 +91,7 @@ us.stereopanner
 
 us.collatz
 us.divisions
+Us.easyarp
 us.stepsequencer
 
 - snippets
