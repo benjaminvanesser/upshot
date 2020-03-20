@@ -11,6 +11,7 @@ contents
 
 - audio effects
 
+us.autotune
 us.bitcrusher
 us.delay
 Us.dynamicstutter
