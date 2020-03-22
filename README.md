@@ -91,6 +91,7 @@ us.stereopanner
 
 - sequencers
 
+us.beams
 us.collatz
 us.divisions
 Us.easyarp
@@ -121,6 +122,5 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200315---
-
+---Benjamin Van Esser 20200322---
 
