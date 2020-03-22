@@ -13,13 +13,14 @@ contents
 
 us.autotune
 us.bitcrusher
+us.compressor
 us.delay
-Us.dynamicstutter
+us.dynamicstutter
 us.easyverb
 us.endlessreverb
 us.filter
 us.freeze
-Us.gate
+us.gate
 us.glitch
 us.glitchchorus
 us.granulator
@@ -27,7 +28,7 @@ us.looper
 us.pitchshifter
 us.reverb
 us.reversedelay
-Us.reversestretch
+us.reversestretch
 us.ringmodulator
 us.stutter
 
@@ -122,5 +123,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200322---
+---Benjamin Van Esser 20200315---
+
 
