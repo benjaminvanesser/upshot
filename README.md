@@ -50,12 +50,13 @@ us.slicer
 
 - midi
 
-Us.chords
+us.chords
 us.launchpadcontrol
 us.many2one
 us.mapping
 us.midi-in
 us.midi-out
+Us.midifileplayer
 us.midifootswitch
 us.quantizer
 us.scalequantizer
