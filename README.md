@@ -17,6 +17,7 @@ us.compressor
 us.delay
 us.dynamicstutter
 us.easyverb
+us.echo
 us.endlessreverb
 us.filter
 us.freeze
@@ -44,6 +45,7 @@ us.wavelope
 
 - instruments
 
+us.monosynth
 us.peacefulpiano
 us.polysynth
 us.sampler
@@ -77,6 +79,7 @@ us.rain
 us.record
 us.speakertest
 us.texttospeech (MacOS only)
+us.udp
 
 - routing
 
@@ -95,7 +98,7 @@ us.stereopanner
 us.beams
 us.collatz
 us.divisions
-Us.easyarp
+us.easyarp
 us.stepsequencer
 
 - snippets
@@ -123,6 +126,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200315---
+---Benjamin Van Esser 20200323---
 
 
