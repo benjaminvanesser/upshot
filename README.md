@@ -26,6 +26,7 @@ us.glitch
 us.glitchchorus
 us.granulator
 us.looper
+us.phaser
 us.pitchshifter
 us.reverb
 us.reversedelay
@@ -126,6 +127,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200323---
+---Benjamin Van Esser 20200325---
 
 
