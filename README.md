@@ -25,6 +25,7 @@ us.gate
 us.glitch
 us.glitchchorus
 us.granulator
+us.limiter
 us.looper
 us.phaser
 us.pitchshifter
@@ -74,7 +75,7 @@ us.alpha
 us.audiofileplayer
 us.compare
 us.metronome
-Us.musicaltyping
+us.musicaltyping
 us.noise
 us.rain
 us.record
