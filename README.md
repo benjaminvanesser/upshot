@@ -28,6 +28,7 @@ us.granulator
 us.limiter
 us.looper
 us.phaser
+us.pingpong
 us.pitchshifter
 us.reverb
 us.reversedelay
@@ -61,7 +62,7 @@ us.many2one
 us.mapping
 us.midi-in
 us.midi-out
-Us.midifileplayer
+us.midifileplayer
 us.midifootswitch
 us.quantizer
 us.scalequantizer
@@ -128,6 +129,5 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200325---
-
+---Benjamin Van Esser 20200326---
 
