@@ -102,6 +102,7 @@ us.beams
 us.collatz
 us.divisions
 us.easyarp
+us.patterns
 us.stepsequencer
 
 - snippets
@@ -129,5 +130,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200326---
+---Benjamin Van Esser 20200327---
+
 
