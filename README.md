@@ -38,12 +38,12 @@ us.stutter
 
 - generators
 
-us.auto
 us.autocontrol
-us.automator
+us.cues
 us.envelope
 us.gameoflife
 us.nodes
+us.repeat
 us.wavelope
 
 - instruments
@@ -130,6 +130,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200327---
+---Benjamin Van Esser 20200402---
 
 
