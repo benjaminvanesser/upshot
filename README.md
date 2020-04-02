@@ -44,6 +44,7 @@ us.envelope
 us.gameoflife
 us.nodes
 us.repeat
+us.snake
 us.wavelope
 
 - instruments
