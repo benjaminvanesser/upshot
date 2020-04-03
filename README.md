@@ -58,6 +58,7 @@ us.slicer
 - midi
 
 us.chords
+us.hold
 us.launchpadcontrol
 us.many2one
 us.mapping
@@ -133,6 +134,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200403---
+---Benjamin Van Esser 20200404---
 
 
