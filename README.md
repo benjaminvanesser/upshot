@@ -68,6 +68,7 @@ us.midifootswitch
 us.quantizer
 us.scalequantizer
 us.transport
+us.velocityreplacer
 
 - misc
 
@@ -76,6 +77,7 @@ us.7bitprobability
 us.alpha
 us.audiofileplayer
 us.compare
+us.git
 us.metronome
 us.musicaltyping
 us.noise
@@ -131,6 +133,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200402---
+---Benjamin Van Esser 20200403---
 
 
