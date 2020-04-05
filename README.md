@@ -15,6 +15,7 @@ us.autotune
 us.bitcrusher
 us.compressor
 us.delay
+us.distortion
 us.dynamicstutter
 us.easyverb
 us.echo
