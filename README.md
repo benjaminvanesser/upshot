@@ -84,8 +84,10 @@ us.musicaltyping
 us.noise
 us.rain
 us.record
+us.smooth
 us.speakertest
 us.texttospeech (MacOS only)
+us.touchoscaccelerometer
 us.udp
 
 - routing
@@ -134,6 +136,5 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200404---
-
+---Benjamin Van Esser 20200405---
 
