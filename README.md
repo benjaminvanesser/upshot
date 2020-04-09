@@ -44,6 +44,7 @@ us.cues
 us.envelope
 us.gameoflife
 us.nodes
+us.phaselope
 us.repeat
 us.snake
 us.wavelope
@@ -83,6 +84,7 @@ us.git
 us.metronome
 us.musicaltyping
 us.noise
+us.playlist
 us.rain
 us.record
 us.smooth
@@ -137,5 +139,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200405---
+---Benjamin Van Esser 20200409---
+
 
