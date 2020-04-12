@@ -87,6 +87,7 @@ us.noise
 us.playlist
 us.rain
 us.record
+us.scale
 us.smooth
 us.speakertest
 us.texttospeech (MacOS only)
@@ -139,6 +140,5 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200409---
-
+---Benjamin Van Esser 20200412---
 
