@@ -26,6 +26,7 @@ us.gate
 us.glitch
 us.glitchchorus
 us.granulator
+us.kitt
 us.limiter
 us.looper
 us.phaser
@@ -142,5 +143,4 @@ Happy patching!
 
 
 ---Benjamin Van Esser 20200413---
-
 
