@@ -110,6 +110,7 @@ us.stereopanner
 
 us.beams
 us.collatz
+us.collide
 us.divisions
 us.easyarp
 us.patterns
@@ -140,5 +141,6 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200412---
+---Benjamin Van Esser 20200413---
+
 
