@@ -36,7 +36,9 @@ us.reverb
 us.reversedelay
 us.reversestretch
 us.ringmodulator
+us.shortstretch
 us.stutter
+us.waveshapedistortion
 
 - generators
 
