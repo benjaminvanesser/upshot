@@ -43,6 +43,7 @@ us.waveshapedistortion
 - generators
 
 us.autocontrol
+us.bursts
 us.cues
 us.envelope
 us.gameoflife
@@ -144,5 +145,5 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200413---
+---Benjamin Van Esser 20200414---
 
