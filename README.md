@@ -1,10 +1,10 @@
-# upshot suite
+# upshot
 
-Upshot Suite is a Max package comprised of audio effects, event generators, trackers, instruments and many other tools/utilities. Upshot Suite was originally created to open up the Ultomaton platform (https://github.com/benjaminvanesser/ultomaton) and create a more flexible environment for building generative patches. 
+Upshot is a Max package comprised of audio effects, event generators, trackers, instruments and many other tools/utilities. Upshot was originally created to open up the Ultomaton platform (https://github.com/benjaminvanesser/ultomaton) and create a more flexible environment for building generative patches. 
 
 installation
 
----> move the ‘UpShot Suite’ folder to Documents/Max8/Packages
+---> move the ‘UpShot’ folder to Documents/Max8/Packages
 
 
 contents
