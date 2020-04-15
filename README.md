@@ -96,7 +96,9 @@ us.smooth
 us.speakertest
 us.texttospeech (MacOS only)
 us.touchoscaccelerometer
+us.truerandom
 us.udp
+us.uselessbutton
 
 - routing
 
@@ -145,5 +147,5 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200414---
+---Benjamin Van Esser 20200415---
 
