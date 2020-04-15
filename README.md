@@ -55,6 +55,7 @@ us.wavelope
 
 - instruments
 
+us.artefacts
 us.monosynth
 us.peacefulpiano
 us.polysynth
@@ -102,15 +103,15 @@ us.uselessbutton
 
 - routing
 
+us.16chanpanner
+us.2chanpanner
 us.4chanpanner
 us.8chanmonomixer
 us.8chanpanner
 us.8chanstereomixer
-us.16chanpanner
 us.input
 us.output
 us.record
-us.stereopanner
 
 - sequencers
 
@@ -148,4 +149,5 @@ Happy patching!
 
 
 ---Benjamin Van Esser 20200415---
+
 
