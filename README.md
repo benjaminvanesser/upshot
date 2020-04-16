@@ -56,6 +56,7 @@ us.wavelope
 - instruments
 
 us.artefacts
+us.clicker
 us.monosynth
 us.peacefulpiano
 us.polysynth
@@ -148,6 +149,5 @@ use us.preset.maxsnip to save and recall presets.
 Happy patching!
 
 
----Benjamin Van Esser 20200415---
-
+---Benjamin Van Esser 20200416---
 
