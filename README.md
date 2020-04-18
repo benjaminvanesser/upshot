@@ -20,6 +20,7 @@ us.dynamicstutter
 us.easyverb
 us.echo
 us.endlessreverb
+us.fauxstereo
 us.filter
 us.freeze
 us.gate
@@ -86,7 +87,6 @@ us.7bitprobability
 us.alpha
 us.audiofileplayer
 us.compare
-us.git
 us.metronome
 us.musicaltyping
 us.noise
@@ -140,14 +140,17 @@ us.pitchdetection
 us.trackpadxy
 
 
-hints
+notes
 
-hovering the cursor over the title of the modules reveals more information.
-use us.preset.maxsnip to save and recall presets.
+- all inlets and outlets ranging from 0 to 127 take/produce floats
+
+- hovering the cursor over the title of the modules reveals more information.
+
+- use us.preset.maxsnip to save and recall presets.
 
 
 Happy patching!
 
 
----Benjamin Van Esser 20200416---
+---Benjamin Van Esser 20200417---
 
