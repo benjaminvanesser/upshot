@@ -122,6 +122,7 @@ us.collide
 us.divisions
 us.easyarp
 us.patterns
+us.pi
 us.stepsequencer
 
 - snippets
@@ -152,5 +153,5 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20200417---
+---Benjamin Van Esser 20200418---
 
