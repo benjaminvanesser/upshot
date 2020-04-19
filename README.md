@@ -57,6 +57,7 @@ us.wavelope
 - instruments
 
 us.artefacts
+us.chordmorpher
 us.clicker
 us.monosynth
 us.peacefulpiano
@@ -153,5 +154,5 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20200418---
+---Benjamin Van Esser 20200419---
 
