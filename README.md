@@ -88,6 +88,7 @@ us.7bitprobability
 us.alpha
 us.audiofileplayer
 us.compare
+us.getIP
 us.metronome
 us.musicaltyping
 us.noise
@@ -154,5 +155,5 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20200419---
+---Benjamin Van Esser 20200525---
 
