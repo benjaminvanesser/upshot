@@ -26,10 +26,12 @@ us.freeze
 us.gate
 us.glitch
 us.glitchchorus
+us.glitchlooper
 us.granulator
 us.kitt
 us.limiter
 us.looper
+us.microlooper
 us.phaser
 us.pingpong
 us.pitchshifter
@@ -155,5 +157,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20200525---
-
+---Benjamin Van Esser 20200624---
