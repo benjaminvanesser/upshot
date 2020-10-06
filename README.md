@@ -1,6 +1,6 @@
 # upshot
 
-Upshot is a Max package comprised of audio effects, event generators, trackers, instruments and many other tools/utilities. Upshot was originally created to open up the Ultomaton platform (https://github.com/benjaminvanesser/ultomaton) and create a more flexible environment for building generative patches. 
+Upshot is a Max package comprised of audio effects, event generators, trackers, instruments and many other tools/utilities. Upshot was originally created to open up the Ultomaton platform (https://github.com/benjaminvanesser/ultomaton) and create a more flexible environment for building generative patches.
 
 installation
 
@@ -72,6 +72,7 @@ us.slicer
 us.chords
 us.hold
 us.launchpadcontrol
+us.manualarp
 us.many2one
 us.mapping
 us.midi-in
@@ -86,9 +87,11 @@ us.velocityreplacer
 - misc
 
 us.1bitprobability
+us.247
 us.7bitprobability
 us.alpha
 us.audiofileplayer
+us.cameraad
 us.compare
 us.getIP
 us.metronome
@@ -157,4 +160,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20200624---
+---Benjamin Van Esser 20201005---
