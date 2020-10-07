@@ -128,6 +128,7 @@ us.collatz
 us.collide
 us.divisions
 us.easyarp
+us.morse
 us.patterns
 us.pi
 us.stepsequencer
@@ -160,4 +161,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20201005---
+---Benjamin Van Esser 20201007---
