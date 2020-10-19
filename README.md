@@ -128,6 +128,7 @@ us.collatz
 us.collide
 us.divisions
 us.easyarp
+us.echternach
 us.morse
 us.patterns
 us.pi
@@ -161,4 +162,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20201007---
+---Benjamin Van Esser 20201019---
