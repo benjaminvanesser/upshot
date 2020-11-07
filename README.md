@@ -144,6 +144,7 @@ us.amplitudefollower
 us.attackdetection
 us.blobtracking (requires cv.jit package)
 us.colortracking
+us.density
 us.draw
 us.imagetomidi
 us.pitchdetection
@@ -162,4 +163,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20201019---
+---Benjamin Van Esser 20201107---
