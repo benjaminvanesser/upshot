@@ -33,8 +33,10 @@ us.limiter
 us.looper
 us.microlooper
 us.phaser
+us.phaselooper
 us.pingpong
 us.pitchshifter
+us.recnplay
 us.reverb
 us.reversedelay
 us.reversestretch
@@ -133,6 +135,7 @@ us.morse
 us.patterns
 us.pi
 us.stepsequencer
+us.zerogravity
 
 - snippets
 
@@ -163,4 +166,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20201107---
+---Benjamin Van Esser 20210207---
