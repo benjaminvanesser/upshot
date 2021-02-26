@@ -44,6 +44,7 @@ us.ringmodulator
 us.shortstretch
 us.stutter
 us.waveshapedistortion
+us.zag
 
 - generators
 
@@ -166,4 +167,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20210207---
+---Benjamin Van Esser 20210226---
