@@ -28,6 +28,7 @@ us.glitch
 us.glitchchorus
 us.glitchlooper
 us.granulator
+us.harmonizer
 us.kitt
 us.limiter
 us.looper
@@ -167,4 +168,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20210226---
+---Benjamin Van Esser 20210405---
