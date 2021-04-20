@@ -121,6 +121,7 @@ us.4chanpanner
 us.8chanmonomixer
 us.8chanpanner
 us.8chanstereomixer
+us.8x8matrix
 us.input
 us.output
 us.record
@@ -168,4 +169,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20210405---
+---Benjamin Van Esser 20210420---
