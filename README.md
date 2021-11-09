@@ -69,6 +69,7 @@ us.monosynth
 us.peacefulpiano
 us.polysynth
 us.sampler
+us.samplerack
 us.slicer
 
 - midi
@@ -142,7 +143,10 @@ us.zerogravity
 
 - snippets
 
+us.audiotemplate
+us.MIDItemplate
 us.preset
+us.zoom
 
 - tracking
 
@@ -169,4 +173,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20210420---
+---Benjamin Van Esser 20211109---
