@@ -6,6 +6,10 @@ installation
 
 ---> move the ‘UpShot’ folder to Documents/Max8/Packages
 
+In this version (1.3.0) some new patchers were added while some older ones were deleted due to obsolescence under Max 9.
+
+added: us.varlooper, us.velocityreplacer, us.orbitalsequencer
+deleted: us.texttospeech, us.playlist
 
 contents
 
@@ -44,6 +48,7 @@ us.reversestretch
 us.ringmodulator
 us.shortstretch
 us.stutter
+us.varlooper
 us.waveshapedistortion
 us.zag
 
@@ -108,7 +113,6 @@ us.record
 us.scale
 us.smooth
 us.speakertest
-us.texttospeech (MacOS only)
 us.touchoscaccelerometer
 us.truerandom
 us.udp
@@ -136,6 +140,7 @@ us.divisions
 us.easyarp
 us.echternach
 us.morse
+us.orbitalsequencer
 us.patterns
 us.pi
 us.stepsequencer
@@ -173,4 +178,4 @@ notes
 Happy patching!
 
 
----Benjamin Van Esser 20211109---
+---Benjamin Van Esser 20261001---
