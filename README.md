@@ -9,6 +9,7 @@ installation
 In this version (1.3.0) some new patchers were added while some older ones were deleted due to obsolescence under Max 9.
 
 added: us.varlooper, us.velocityreplacer, us.orbitalsequencer
+
 deleted: us.texttospeech, us.playlist
 
 contents
